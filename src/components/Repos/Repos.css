@@ -1,0 +1,10 @@
+.repoLink {
+    color: white;
+}
+
+
+.repoScroll {
+    height: 400px;
+    overflow: auto;
+    overflow-x: hidden;
+}

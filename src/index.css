@@ -1,0 +1,12 @@
+body {
+  color: white;
+  margin: 0;
+  /* font-family: 'Inter', sans-serif; */
+  font-family: 'Poppins', sans-serif;
+  /* font-family: 'Press Start 2P', cursive; */
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
