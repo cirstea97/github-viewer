@@ -1,6 +1,6 @@
 # Description
 
-Just a project that uses GitHub's API in order to get certain profile information from a user.
+A React app that uses Github APIs to fetch information about a Github profile and its repositories to show them to the user. It's also possible to bookmark your favorite profiles to checkout them again later on.
 
 ## Usage
 
@@ -14,6 +14,12 @@ Clone the repository and navigate to the created folder
 ```
 git clone https://github.com/cirstea97/github-viewer.git
 cd github-viewer
+```
+
+Install npm
+
+```
+npm install
 ```
 
 Run the project
